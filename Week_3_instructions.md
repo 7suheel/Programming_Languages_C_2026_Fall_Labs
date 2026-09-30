@@ -38,7 +38,7 @@ If you don't want to use terminal commands in Codespaces, you can update your fo
 3. Click the **"Sync fork"** button, then click **"Update branch"** to bring your fork up to date.
 4. After that, go back to your Codespace and run:
    ```bash
-   git pull origin main
+   git pull origin main --no-rebase
    ```
    This will download the updated files from your fork into your Codespace.
 
