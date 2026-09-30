@@ -25,7 +25,7 @@ Choose the method that fits your situation.
 
 ---
 
-### Option A – Update Your Fork Using GitHub "Sync Fork" Button
+### Option A – Update Your Fork Using GitHub "Sync Fork" Button (Recommended)
 
 If you don't want to use terminal commands in Codespaces, you can update your fork directly on the GitHub website.
 
@@ -45,7 +45,7 @@ If you don't want to use terminal commands in Codespaces, you can update your fo
 ⚠️ **Note:** The "Sync fork" method updates your fork on GitHub, but you still need to run
 `git pull origin main` inside your Codespace to get the new files locally.
 
-### Option B – Update Your Existing Codespace (Recommended)
+### Option B – Update Your Existing Codespace
 
 If you already forked the course repository in Week 1 and created a Codespace, you can simply **pull the new files**.
 
